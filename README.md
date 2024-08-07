@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner: 
 
 ```pmp install react```
+
+Sistema de Registro 2
